@@ -1,3 +1,5 @@
+[![Go CI](https://github.com/Creator-nameless55555/go-webhook-delivery/actions/workflows/ci.yml/badge.svg)](https://github.com/Creator-nameless55555/go-webhook-delivery/actions)
+
 # Go Webhook Delivery
 
 A lightweight webhook delivery service written in Go.
