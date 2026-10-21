@@ -1,0 +1,22 @@
+@"
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test output
+*.test
+coverage.out
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+"@ | Set-Content -Encoding utf8 .gitignore
